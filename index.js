@@ -1,8 +1,8 @@
+const sum = (a, b) => {
+  return a + b;
+};
 
+let a = 10;
+let b = 6;
 
-const it = 10;
-
-for (let i = 0; i < it; i++) {
-    console.log(i);
-}
-
+console.log(`Sum is ${sum(a,b)}`);
