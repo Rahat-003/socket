@@ -1,3 +1,4 @@
 {
-  "cloudcode.duetAI.enable": true
+    "cloudcode.duetAI.enable": true,
+    "eslint.format.enable": true
 }
